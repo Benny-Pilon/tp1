@@ -92,10 +92,14 @@ td:nth-child(1) {
     font-size: 13px;
     font-style: oblique;
 }
-li{
+ul{
     font-size: 13px; 
 }
 
 table{
     border: 0px solid black;
+}
+ol{
+    list-style:none;
+    text-align: left;
 }
