@@ -6,7 +6,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background: linear-gradient(#EC5A0D 10%, black 90%);
+    background: linear-gradient(#EC5A0D 0%, black 100%);
 
 }
 
